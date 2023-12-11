@@ -1,0 +1,7 @@
+## TODO
+
+
+* [ ] C89 Support
+	* [ ] Basic language features
+		* [ ] Parsing
+		* [ ] Basic codegen
